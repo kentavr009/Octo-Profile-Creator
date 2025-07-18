@@ -1,0 +1,18 @@
+{
+  "0": [
+    {
+      "domain": ".example.com",
+      "name": "cookie_name",
+      "path": "/",
+      "value": "cookie_value"
+    }
+  ],
+  "1": [
+    {
+      "domain": ".another-site.com",
+      "name": "session_id",
+      "path": "/",
+      "value": "xyz123"
+    }
+  ]
+}
