@@ -1,6 +1,6 @@
 # Octo Browser Profile Creator
 
-Этот скрипт автоматически создает профили в Octo Browser в пакетном режиме.
+Этот скрипт автоматически создает профили в [Octo Browser](https://octobrowser.net/) в пакетном режиме.
 
 ## Возможности
 
